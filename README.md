@@ -1,5 +1,8 @@
 # Crypto-currency analysis using NLP-sentiment model
 
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/metabolize/rq-dashboard-on-heroku)  
+![APM](https://img.shields.io/apm/l/vim-mode)
+
 This project aims to analyse the trend of price of a cryptocurrency coin with relation to it's corresponding twitter data. Here the trend of price is correlated with the sentiment of tweets for the same date-range.
 
 ## Getting Started
